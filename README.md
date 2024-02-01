@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/prem raj shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prem raj shrestha" height="30" width="40" /></a>
 <a href="https://fb.com/bipin shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bipin shrestha" height="30" width="40" /></a>
 <a href="https://instagram.com/bipinshrestha019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bipinshrestha019" height="30" width="40" /></a>
-<a href="https://hashnode.com/@bipinsth019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@bipinsth019" height="30" width="40" /></a>
+<a href="https://hashnode.com/@bipinstha019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@bipinstha019" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
